@@ -1,0 +1,2912 @@
+repo_name: mapsi/starter.dev
+report_id: 8e103a2f1c71eb0fb9f88aa6008940fe
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-23T08:51:36+00:00'
+requested_by: markshenouda
+provider: github
+branch: main
+detected_tools_count: 210
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mapsi/starter.dev
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mapsi/starter.dev
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/serverless-framework-apollo-contentful/package.json
+  detection_source: starters/serverless-framework-apollo-contentful/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2023-02-23 14:22:36.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/src/lib/db/migrations/20230216140041_init/migration.sql
+  detection_source: starters/express-apollo-prisma/src/lib/db/migrations/20230216140041_init/migration.sql
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev
+  detection_source: Repo Metadata
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/packages/website/package.json
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-01-20 16:33:57.000000000 Z
+- name: Expo
+  description: Build one project that runs natively on all your users' devices
+  website_url: https://expo.dev/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/5795/default_683a3de22a6983c41f27b04348f4c7380c5e3c21.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/expo-zustand-styled-components/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2023-06-12 16:12:16.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 4.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/shopify-next-tailwind/package.json
+  detection_source: starters/shopify-next-tailwind/package.json
+  last_updated_by: Mattia
+  last_updated_on: 2023-07-26 12:52:37.000000000 Z
+- name: Lit
+  description: "441 byte responsive \U0001F525 CSS framework"
+  website_url: https://ajusa.github.io/lit/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: MobX
+  description: Simple, scalable state management
+  website_url: https://github.com/mobxjs/mobx
+  version: 6.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5302/17475736.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 13.4.11
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/next-chakra-ui/package.json
+  detection_source: starters/next-chakra-ui/package.json
+  last_updated_by: Linda Thompson
+  last_updated_on: 2023-06-23 19:13:13.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: '16.14'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/.nvmrc
+  detection_source: Repo Metadata
+  last_updated_by: Dustin Goodman
+  last_updated_on: 2022-03-30 16:25:29.000000000 Z
+- name: Nuxt.js
+  description: The Vue.js Framework
+  website_url: https://nuxtjs.org
+  version: 2.15.8
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/7304/23360933.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jesus Padron
+  last_updated_on: 2022-11-04 16:52:33.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/packages/website/package.json
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-01-20 16:33:57.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-01-03 16:22:15.000000000 Z
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  version: 0.71.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/expo-zustand-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 7.8.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: brett
+  last_updated_on: 2022-05-09 15:20:08.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt3-pinia-vuetify/package.json
+  detection_source: starters/nuxt3-pinia-vuetify/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2023-06-05 21:27:20.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  version: 6.5.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/solidstart-tanstackquery-tailwind-modules/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: Svelte
+  description: A UI framework that compiles into tiny standalone JavaScript modules
+  website_url: https://svelte.technology/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/svelte-kit-scss/package.json
+  detection_source: starters/svelte-kit-scss/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/packages/website/package.json
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-01-20 16:33:57.000000000 Z
+- name: TypeORM
+  description: An ORM that can run in NodeJS and others
+  website_url: https://typeorm.io/
+  version: 0.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/7419/20165699.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.7.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jesus Padron
+  last_updated_on: 2022-11-04 16:52:33.000000000 Z
+- name: Vuetify
+  description: Material Component Framework for VueJS 2
+  website_url: https://vuetifyjs.com/
+  version: 3.1.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/6163/PzNbCwXH.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt3-pinia-vuetify/package.json
+  detection_source: starters/nuxt3-pinia-vuetify/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: XState
+  description: State machines and statecharts for the modern web
+  website_url: https://xstate.js.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/12312/default_b7db756c27572b5302a654fe5a96f617084c7d8a.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-xstate-css/package.json
+  detection_source: starters/vue3-xstate-css/package.json
+  last_updated_by: Linda Thompson
+  last_updated_on: 2023-06-09 23:39:17.000000000 Z
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/expo-zustand-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/svelte-kit-scss/package.json
+  detection_source: starters/svelte-kit-scss/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-01-12 16:40:19.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: BullMQ
+  description: A library that implements a fast and robust queue system
+  website_url: https://github.com/taskforcesh/bullmq
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/25280/default_d1dbf45c67d448a8a16413d63d3c21cdca003fb8.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Tápai Balázs
+  last_updated_on: 2022-12-20 14:07:21.000000000 Z
+- name: Cloud DB for Mysql
+  description: Easily setup and manage the MySQL database service
+  website_url: https://www.ncloud.com/product/database/cloudDbMysql
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: SQL Database as a Service
+  image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/docker-compose.yaml
+  detection_source: starters/express-apollo-prisma/docker-compose.yaml
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/docker-compose.yaml
+  detection_source: starters/express-apollo-prisma/docker-compose.yaml
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/docker-compose.yaml
+  detection_source: starters/express-apollo-prisma/docker-compose.yaml
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/deno-oak-denodb/docker-compose.yml
+  detection_source: starters/deno-oak-denodb/docker-compose.yml
+  last_updated_by: Dario Djuric
+  last_updated_on: 2022-12-19 12:25:13.000000000 Z
+- name: Prisma
+  description: Modern Database Access for TypeScript &amp; Node.js
+  website_url: https://www.prisma.io/
+  version: 4.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/docker-compose.yaml
+  detection_source: starters/express-apollo-prisma/docker-compose.yaml
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 4.6.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/deno-oak-denodb/docker-compose.yml
+  last_updated_by: Dario Djuric
+  last_updated_on: 2022-12-19 12:25:13.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: Cypress
+  description: When testing is easy, developers build better things faster and with
+    confidence.
+  website_url: https://www.cypress.io/
+  version: 10.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-xstate-css/package.json
+  detection_source: starters/vue3-xstate-css/package.json
+  last_updated_by: Linda Thompson
+  last_updated_on: 2023-05-26 22:14:42.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mapsi/starter.dev
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/packages/create-starter/package.json
+  detection_source: packages/create-starter/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2021-12-14 16:32:40.000000000 Z
+- name: Esbuild
+  description: An extremely fast JavaScript bundler
+  website_url: https://esbuild.github.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/packages/create-starter/package.json
+  detection_source: packages/create-starter/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-06-14 17:59:31.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mapsi/starter.dev
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/.github/workflows/ci-angular-apollo-tailwind.yml
+  detection_source: ".github/workflows/ci-angular-apollo-tailwind.yml"
+  last_updated_by: Daian Scuarissi
+  last_updated_on: 2022-11-28 20:10:11.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2022-03-29 14:26:25.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 6.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/serverless-framework-apollo-contentful/package.json
+  detection_source: starters/serverless-framework-apollo-contentful/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2023-02-23 14:22:36.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 14.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/qwik-graphql-tailwind/package.json
+  detection_source: starters/qwik-graphql-tailwind/package.json
+  last_updated_by: Jan Kaiser
+  last_updated_on: 2022-10-24 11:20:13.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.74.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-12-09 16:01:00.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Dane Grant
+  last_updated_on: 2021-12-14 16:32:40.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 21.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt3-pinia-vuetify/package.json
+  detection_source: starters/nuxt3-pinia-vuetify/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2023-06-05 21:27:20.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-04-26 04:55:07.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt3-pinia-vuetify/package.json
+  detection_source: starters/nuxt3-pinia-vuetify/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2023-06-05 21:27:20.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: AWS Lambda
+  description: Automatically run code in response to modifications to objects in Amazon
+    S3 buckets, messages in Kinesis streams, or updates in DynamoDB
+  website_url: http://aws.amazon.com/lambda
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/1909/aws-lambda.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/serverless-framework-apollo-contentful/package.json
+  detection_source: starters/serverless-framework-apollo-contentful/package.json
+  last_updated_by: Maarten Bicknese
+  last_updated_on: 2023-03-14 09:18:42.000000000 Z
+- name: Effe
+  description: A building block for an open source AWS lambda
+  website_url: http://redbeardlab.github.io/2016/03/05/effe.html
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-ngrx-scss/package.json
+  detection_source: starters/angular-ngrx-scss/package.json
+  last_updated_by: Jamie Kuppens
+  last_updated_on: 2022-06-17 21:43:22.000000000 Z
+- name: Serverless
+  description: The most widely-adopted toolkit for building serverless applications
+  website_url: https://github.com/serverless/serverless
+  version: 3.28.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/5095/serverless-logo.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/metrics-handler/package.json
+  last_updated_by: Tápai Balázs
+  last_updated_on: 2023-03-10 10:14:07.000000000 Z
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/netlify.toml
+  detection_source: netlify.toml
+  last_updated_by: Linda Thompson
+  last_updated_on: 2023-01-05 23:51:50.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/deno-oak-denodb/docker-compose.yml
+  detection_source: starters/deno-oak-denodb/docker-compose.yml
+  last_updated_by: Dario Djuric
+  last_updated_on: 2022-12-19 12:25:13.000000000 Z
+- name: Pinia
+  description: The Vue Store that you will enjoy using
+  website_url: https://pinia.vuejs.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48301/default_0cffd727391e16b2a8bd6edbcffc0255a3a541d0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 3.2.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/qwik-graphql-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 3.2.8
+  - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
+      (//)
+    cve_id: CVE-2023-34092
+    cve_url: https://github.com/advisories/GHSA-353f-5xf4-qw67
+    detected_date: Nov 23
+    severity: high
+    first_patched: 3.2.7
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 3.2.10
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+  vulnerabilities:
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: sanitize-html
+  description: Clean up user-submitted HTML
+  package_url: https://www.npmjs.com/sanitize-html
+  version: 2.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17508/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/shopify-next-tailwind/package.json
+  detection_source: starters/shopify-next-tailwind/package.json
+  last_updated_by: Mattia
+  last_updated_on: 2023-07-26 12:52:37.000000000 Z
+  vulnerabilities:
+  - name: sanitize-html Information Exposure vulnerability
+    cve_id: CVE-2024-21501
+    cve_url: https://github.com/advisories/GHSA-rm97-x556-q36h
+    detected_date: Mar 2
+    severity: moderate
+    first_patched: 2.12.1
+- name: "@apollo/server"
+  description: Core engine for Apollo GraphQL server
+  package_url: https://www.npmjs.com/@apollo/server
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+  vulnerabilities:
+  - name: Prevent logging invalid header values
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-j5g3-5c8r-7qfx
+    detected_date: Dec 19
+    severity: low
+    first_patched: 4.9.3
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 13.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 13.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@apollo/client"
+  description: A fully-featured caching GraphQL client
+  package_url: https://www.npmjs.com/@apollo/client
+  version: 3.6.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@aws-sdk/types"
+  description: Types for the AWS SDK
+  package_url: https://www.npmjs.com/@aws-sdk/types
+  version: 3.272.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17340/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/serverless-framework-apollo-contentful/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.22.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: "@commitlint/cli"
+  description: Lint your commit messages
+  package_url: https://www.npmjs.com/@commitlint/cli
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-02-15 17:18:41.000000000 Z
+- name: "@commitlint/config-conventional"
+  description: Shareable commitlint config enforcing conventional commits
+  package_url: https://www.npmjs.com/@commitlint/config-conventional
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jerry Hogan
+  last_updated_on: 2023-08-07 09:42:43.000000000 Z
+- name: "@compodoc/compodoc"
+  description: The missing documentation tool for your Angular application
+  package_url: https://www.npmjs.com/@compodoc/compodoc
+  version: 1.1.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16652/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: Dustin Goodman
+  last_updated_on: 2022-07-14 14:07:53.000000000 Z
+- name: "@emotion/styled"
+  description: Styled API for emotion
+  package_url: https://www.npmjs.com/@emotion/styled
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16702/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/next-chakra-ui/package.json
+  detection_source: starters/next-chakra-ui/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-07-21 18:43:47.000000000 Z
+- name: "@ngrx/effects"
+  description: Side effect model for @ngrx/store
+  package_url: https://www.npmjs.com/@ngrx/effects
+  version: 16.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18354/default_afc2a42fbd077078a8d7aed523ae6b2fbe845459.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-ngrx-scss/package.json
+  detection_source: starters/angular-ngrx-scss/package.json
+  last_updated_by: Jan Kaiser
+  last_updated_on: 2023-08-04 09:35:34.000000000 Z
+- name: "@ngrx/store"
+  description: RxJS powered Redux for Angular apps
+  package_url: https://www.npmjs.com/@ngrx/store
+  version: 16.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17641/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-ngrx-scss/package.json
+  detection_source: starters/angular-ngrx-scss/package.json
+  last_updated_by: Jan Kaiser
+  last_updated_on: 2023-08-04 09:35:34.000000000 Z
+- name: "@open-wc/testing"
+  description: Testing following open-wc recommendations
+  package_url: https://www.npmjs.com/@open-wc/testing
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18264/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: "@prisma/client"
+  description: Prisma Client is an auto-generated, type-safe and modern JavaScript/TypeScript
+    ORM for Node.js that's tailored to your data
+  package_url: https://www.npmjs.com/@prisma/client
+  version: 4.10.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 15.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: "@storybook/addon-a11y"
+  description: A11y addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-a11y
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17117/default_9746cbb559e39df4afd8298f9a252dff8519e646.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/next-chakra-ui/package.json
+  detection_source: starters/next-chakra-ui/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-07-21 18:43:47.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 6.5.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@storybook/addon-backgrounds"
+  description: A storybook addon to show different backgrounds for your preview
+  package_url: https://www.npmjs.com/@storybook/addon-backgrounds
+  version: 7.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17841/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/solidjs-tailwind/package.json
+  detection_source: starters/solidjs-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@storybook/addon-docs"
+  description: Superior documentation for your components
+  package_url: https://www.npmjs.com/@storybook/addon-docs
+  version: 7.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17835/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/solidjs-tailwind/package.json
+  detection_source: starters/solidjs-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 6.5.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@storybook/addons"
+  description: Storybook addons store
+  package_url: https://www.npmjs.com/@storybook/addons
+  version: 6.5.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16200/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/solidstart-tanstackquery-tailwind-modules/package.json
+  detection_source: starters/solidstart-tanstackquery-tailwind-modules/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@storybook/cli"
+  description: Storybook's CLI - easiest method of adding storybook to your projects
+  package_url: https://www.npmjs.com/@storybook/cli
+  version: 6.5.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17704/default_7ff152b9bcf219fad0d56c78a016d5bad6a2a526.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 6.5.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.5.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-01-20 16:33:57.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-12-09 16:01:00.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/amqplib"
+  description: TypeScript definitions for amqplib
+  package_url: https://www.npmjs.com/@types/amqplib
+  version: 0.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18378/default_b2c6032681a6747cfd45e1399143ed0d1db9b898.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/aws-lambda"
+  description: TypeScript definitions for AWS Lambda
+  package_url: https://www.npmjs.com/@types/aws-lambda
+  version: 8.10.109
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17868/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/serverless-framework-apollo-contentful/package.json
+  detection_source: starters/serverless-framework-apollo-contentful/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/body-parser"
+  description: TypeScript definitions for body-parser
+  package_url: https://www.npmjs.com/@types/body-parser
+  version: 1.19.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16808/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/compression"
+  description: TypeScript definitions for compression
+  package_url: https://www.npmjs.com/@types/compression
+  version: 1.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18206/default_dfaa3c3f19039c5391ee1a13529324eaa2685e7f.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/cors"
+  description: TypeScript definitions for cors
+  package_url: https://www.npmjs.com/@types/cors
+  version: 2.8.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17290/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/eslint"
+  description: TypeScript definitions for eslint
+  package_url: https://www.npmjs.com/@types/eslint
+  version: 8.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18156/default_9663441986aa2be78296ccf617e43ef9e612b34e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/qwik-graphql-tailwind/package.json
+  detection_source: starters/qwik-graphql-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 10.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.14.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/create-starter/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-01-10 17:38:13.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/react-native"
+  description: TypeScript definitions for react-native
+  package_url: https://www.npmjs.com/@types/react-native
+  version: 0.71.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16569/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/expo-zustand-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.54.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/create-starter/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-10-17 20:33:15.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.54.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/create-starter/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-10-17 20:33:15.000000000 Z
+- name: "@vue/cli-plugin-unit-jest"
+  description: Unit-jest plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-unit-jest
+  version: 5.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16558/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-apollo-quasar/package.json
+  detection_source: starters/vue3-apollo-quasar/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@vue/eslint-config-prettier"
+  description: Eslint-config-prettier for Vue CLI
+  package_url: https://www.npmjs.com/@vue/eslint-config-prettier
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16824/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-xstate-css/package.json
+  detection_source: starters/vue3-xstate-css/package.json
+  last_updated_by: Linda Thompson
+  last_updated_on: 2023-05-26 22:14:42.000000000 Z
+- name: "@vue/eslint-config-typescript"
+  description: Eslint-config-typescript for vue-cli
+  package_url: https://www.npmjs.com/@vue/eslint-config-typescript
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18076/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-xstate-css/package.json
+  detection_source: starters/vue3-xstate-css/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: "@vue/test-utils"
+  description: Utilities for testing Vue components
+  package_url: https://www.npmjs.com/@vue/test-utils
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16231/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-02-15 17:18:41.000000000 Z
+- name: amqplib
+  description: An AMQP 0-9-1
+  package_url: https://www.npmjs.com/amqplib
+  version: 0.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16639/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.1331.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/serverless-framework-apollo-contentful/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: bullmq
+  description: Queue for messages and jobs based on Redis
+  package_url: https://www.npmjs.com/bullmq
+  version: 3.6.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: compression
+  description: Node.js compression middleware
+  package_url: https://www.npmjs.com/compression
+  version: 1.7.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16187/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 3.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jesus Padron
+  last_updated_on: 2022-11-04 16:52:33.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/remix-gql-tailwind/package.json
+  detection_source: starters/remix-gql-tailwind/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-12-09 16:00:05.000000000 Z
+- name: cross-fetch
+  description: Universal WHATWG Fetch API for Node
+  package_url: https://www.npmjs.com/cross-fetch
+  version: 3.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17537/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-apollo-quasar/package.json
+  detection_source: starters/vue3-apollo-quasar/package.json
+  last_updated_by: Jerry Hogan
+  last_updated_on: 2022-07-08 16:14:47.000000000 Z
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 13.4.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/next-chakra-ui/package.json
+  detection_source: starters/next-chakra-ui/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-07-21 18:43:47.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 17.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: eslint-plugin-cypress
+  description: An ESLint plugin for projects using Cypress
+  package_url: https://www.npmjs.com/eslint-plugin-cypress
+  version: 2.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18548/default_0998c3a5bd64540d478b8f189bd9d22c3c17b6a0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-xstate-css/package.json
+  detection_source: starters/vue3-xstate-css/package.json
+  last_updated_by: Linda Thompson
+  last_updated_on: 2023-05-26 22:14:42.000000000 Z
+- name: eslint-plugin-html
+  description: A ESLint plugin to lint and fix inline scripts contained in HTML files
+  package_url: https://www.npmjs.com/eslint-plugin-html
+  version: 6.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16129/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-ngrx-scss/package.json
+  detection_source: starters/angular-ngrx-scss/package.json
+  last_updated_by: Jan Kaiser
+  last_updated_on: 2023-08-04 09:35:34.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.27.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-04-26 04:55:07.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 6.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.32.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-01-03 16:22:15.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-01-03 16:22:15.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 8.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: graphql-request
+  description: "[![CircleCI]"
+  package_url: https://www.npmjs.com/graphql-request
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18362/default_c13193d39b06aca7675079cf8440e70e9150db5e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/remix-gql-tailwind/package.json
+  detection_source: starters/remix-gql-tailwind/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-02-13 19:58:24.000000000 Z
+- name: graphql-tag
+  description: A JavaScript template literal tag that parses GraphQL queries
+  package_url: https://www.npmjs.com/graphql-tag
+  version: 2.12.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16631/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  version: 0.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: http-status-codes
+  description: Constants enumerating the HTTP status codes
+  package_url: https://www.npmjs.com/http-status-codes
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17527/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: identity-obj-proxy
+  description: An identity object using ES6 proxies
+  package_url: https://www.npmjs.com/identity-obj-proxy
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16206/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/next-react-query-tailwind/package.json
+  detection_source: starters/next-react-query-tailwind/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-07-21 18:33:30.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  version: 29.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/next-chakra-ui/package.json
+  detection_source: starters/next-chakra-ui/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-07-21 18:43:47.000000000 Z
+- name: jest-expo
+  description: A [Jest]
+  package_url: https://www.npmjs.com/jest-expo
+  version: 47.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18657/default_985ff1567396ff4f07ccae167a7ed19741ef590a.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/expo-zustand-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: jest-fetch-mock
+  description: Fetch mock for jest
+  package_url: https://www.npmjs.com/jest-fetch-mock
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17142/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/website/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: karma-coverage
+  description: A Karma plugin. Generate code coverage
+  package_url: https://www.npmjs.com/karma-coverage
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-13 13:39:32.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 13.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/lit-mobx-vaadin/package.json
+  detection_source: starters/lit-mobx-vaadin/package.json
+  last_updated_by: Ignacio Falk
+  last_updated_on: 2023-07-26 18:01:24.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/create-starter/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-01-10 17:38:13.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt3-pinia-vuetify/package.json
+  detection_source: starters/nuxt3-pinia-vuetify/package.json
+  last_updated_by: Jessica Wilkins
+  last_updated_on: 2023-06-05 21:27:20.000000000 Z
+- name: pg
+  description: PostgreSQL client - pure javascript &amp; libpq with the same API
+  package_url: https://www.npmjs.com/pg
+  version: 8.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Tápai Balázs
+  last_updated_on: 2022-12-20 14:07:21.000000000 Z
+- name: postcss-cli
+  description: CLI for PostCSS
+  package_url: https://www.npmjs.com/postcss-cli
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16326/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/remix-gql-tailwind/package.json
+  detection_source: starters/remix-gql-tailwind/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-02-13 19:58:24.000000000 Z
+- name: postcss-import
+  description: PostCSS plugin to import CSS files
+  package_url: https://www.npmjs.com/postcss-import
+  version: 14.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/shopify-next-tailwind/package.json
+  last_updated_by: Mattia
+  last_updated_on: 2023-07-26 12:52:37.000000000 Z
+- name: postcss-preset-env
+  description: Convert modern CSS into something browsers understand
+  package_url: https://www.npmjs.com/postcss-preset-env
+  version: 8.3.2
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/shopify-next-tailwind/package.json
+  detection_source: starters/shopify-next-tailwind/package.json
+  last_updated_by: Mattia
+  last_updated_on: 2023-07-26 12:52:37.000000000 Z
+- name: prisma
+  description: Prisma is an open-source database toolkit
+  package_url: https://www.npmjs.com/prisma
+  version: 4.10.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: prompts
+  description: Lightweight, beautiful and user-friendly prompts
+  package_url: https://www.npmjs.com/prompts
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/create-starter/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2021-12-14 16:32:40.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-01-03 16:22:15.000000000 Z
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  version: 0.71.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/expo-zustand-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: react-native-web
+  description: React Native for Web
+  package_url: https://www.npmjs.com/react-native-web
+  version: 0.18.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17683/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/expo-zustand-styled-components/package.json
+  detection_source: starters/expo-zustand-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/cra-rxjs-styled-components/package.json
+  detection_source: starters/cra-rxjs-styled-components/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/create-starter/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2021-12-14 16:32:40.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 13.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/svelte-kit-scss/package.json
+  detection_source: starters/svelte-kit-scss/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-07-06 15:55:07.000000000 Z
+- name: simple-git
+  description: Simple GIT interface for node.js
+  package_url: https://www.npmjs.com/simple-git
+  version: 3.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16567/default_d6ff16957d0b119d673d5ec0eb21b08d8d5008f4.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Chris Trześniewski
+  last_updated_on: 2023-03-03 17:54:49.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/svelte-kit-scss/package.json
+  detection_source: starters/svelte-kit-scss/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-01-12 16:40:19.000000000 Z
+- name: stylelint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/stylelint-config-prettier
+  version: 9.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16896/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-02-15 17:18:41.000000000 Z
+- name: stylelint-config-standard
+  description: Standard shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-standard
+  version: 26.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16266/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.2.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/website/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-01-20 16:33:57.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 9.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-typeorm-postgres/package.json
+  detection_source: starters/express-typeorm-postgres/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-03-22 09:33:21.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-04-26 04:55:07.000000000 Z
+- name: tsconfig-paths
+  description: Load node modules according to tsconfig paths
+  package_url: https://www.npmjs.com/tsconfig-paths
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16810/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/express-apollo-prisma/package.json
+  detection_source: starters/express-apollo-prisma/package.json
+  last_updated_by: Ihar Dziamidau
+  last_updated_on: 2023-03-20 13:13:20.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.14.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: William Hutt
+  last_updated_on: 2023-02-15 15:07:14.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.7.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jesus Padron
+  last_updated_on: 2022-11-04 16:52:33.000000000 Z
+- name: vue-jest
+  description: Jest Vue transform
+  package_url: https://www.npmjs.com/vue-jest
+  version: 3.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16554/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jerry Hogan
+  last_updated_on: 2023-08-07 09:42:43.000000000 Z
+- name: vue-loader
+  description: "&gt; webpack loader for Vue Single-File Components"
+  package_url: https://www.npmjs.com/vue-loader
+  version: 16.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15901/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-apollo-quasar/package.json
+  detection_source: starters/vue3-apollo-quasar/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-02-13 23:54:36.000000000 Z
+- name: vue-router
+  description: Official router for Vue.js 2
+  package_url: https://www.npmjs.com/vue-router
+  version: 4.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/vue3-apollo-quasar/package.json
+  detection_source: starters/vue3-apollo-quasar/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2023-02-13 23:54:36.000000000 Z
+- name: vue-server-renderer
+  description: Server renderer for Vue 2.0
+  package_url: https://www.npmjs.com/vue-server-renderer
+  version: 2.7.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17043/default_0e6669b56ffe7d68d8118eb8e85d024215fd5906.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jerry Hogan
+  last_updated_on: 2023-08-07 09:42:43.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.7.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/nuxt2-pinia-tailwind/package.json
+  detection_source: starters/nuxt2-pinia-tailwind/package.json
+  last_updated_by: Jerry Hogan
+  last_updated_on: 2023-08-07 09:42:43.000000000 Z
+- name: whatwg-fetch
+  description: A window.fetch polyfill
+  package_url: https://www.npmjs.com/whatwg-fetch
+  version: 3.6.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/next-react-query-tailwind/package.json
+  detection_source: starters/next-react-query-tailwind/package.json
+  last_updated_by: Ian Sam Mungai
+  last_updated_on: 2023-07-21 18:33:30.000000000 Z
+- name: yargs-parser
+  description: The mighty option parser used by yargs
+  package_url: https://www.npmjs.com/yargs-parser
+  version: 20.2.9
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17207/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/yarn.lock
+  detection_source: packages/create-starter/package.json
+  last_updated_by: Dane Grant
+  last_updated_on: 2022-10-17 20:33:15.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/mapsi/starter.dev/blob/main/starters/angular-apollo-tailwind/package.json
+  detection_source: starters/angular-apollo-tailwind/package.json
+  last_updated_by: igrdi
+  last_updated_on: 2022-06-29 17:00:12.000000000 Z
